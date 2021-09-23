@@ -20,3 +20,5 @@ Licensed under a Creative Commons 0.
 https://freesound.org/people/codefhd/sounds/465605/ 
 
 ---
+
+"Pirate deck at Club Earl" by Earl - What I Saw 2.0 is licensed under CC BY-NC-SA 2.0 
