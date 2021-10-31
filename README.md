@@ -8,10 +8,10 @@ Playtest my game [here!](404)
 
 ##Prototypes!
 
-Play my latest prototype [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr! CU-2 Prototype.html)
+Play my latest prototype [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr!_CU-2_Prototype.html)
 
 ##Weekly Builds!
 
-Playtest my most recent build [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr! CU-2 Prototype.html)
+Playtest my most recent build [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr!_CU-2_Prototype.html)
 
 ### WIP
