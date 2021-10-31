@@ -29,3 +29,5 @@ Naval ensign of France prior to 1789 and between 1814/15 and 1830 by -Strogoff-
 Licensed under Public Domain
 https://en.wikipedia.org/wiki/French_ensigns#/media/File:Flag_of_the_Kingdom_of_France_(1814-1830).svg
 ---
+"sailing ship - animated gif" by Lenabem-Anna J. is licensed with CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/ 
+---
