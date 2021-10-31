@@ -4,14 +4,14 @@ Welcome to my twine games website! Created for IASC-1P04 course at brock Univers
 
 ## Playtest
 
-Playtest my game [here!](https://colin12345678910.github.io/CD-1P04/weekly_builds)
+Playtest my game [here!](404)
 
 ##Prototypes!
 
-Play my latest prototype [here!](prototpe/YarrProto.html)
+Play my latest prototype [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr! CU-2 Prototype.html)
 
 ##Weekly Builds!
 
-Playtest my most recent build [here!](https://github.com/Colin12345678910/CD-1P04/tree/main/weekly_builds)
+Playtest my most recent build [here!](https://colin12345678910.github.io/CD-1P04/prototype/Yarr! CU-2 Prototype.html)
 
 ### WIP
