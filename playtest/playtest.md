@@ -8,6 +8,6 @@ oo  oo  oo     oo   oo    oo  oo    oo  oo
   
   ## Playtest page
 
-  ##Playtest the latest YARR prototype [here!]().
+  ##Playtest the latest YARR prototype [here!](../prototype/Yarr!_CU-2_Prototype.html).
   
   Please complete the playtest survey after playing!
