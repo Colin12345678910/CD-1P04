@@ -37,3 +37,7 @@ Cumbiac by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/6428-cumbiac
 License: https://filmmusic.io/standard-license
 ---
+Aquarium by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/5738-aquarium
+License: https://filmmusic.io/standard-license
+---
