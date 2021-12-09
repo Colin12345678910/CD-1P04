@@ -14,6 +14,10 @@ SailDeploy by Codefhd (c) copyright 2017
 Licensed under a Creative Commons 0.
 https://freesound.org/people/codefhd/sounds/465605/ 
 ---
+the mission gun foley gun shots by martian (c) copyright 2013
+Licensed under a Creative Commons 0.
+https://freesound.org/people/martian/sounds/182274/
+---
 "Pirate deck at Club Earl" by Earl - What I Saw 2.0 is licensed under CC BY-NC-SA 2.0 
 https://search.creativecommons.org/photos/3217580d-af2e-4e8d-a965-a880882adea1
 ---
