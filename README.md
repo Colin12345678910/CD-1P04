@@ -11,6 +11,6 @@ Play my latest prototype [here!](https://colin12345678910.github.io/CD-1P04/prot
 Playtest my game [here!](playtest/playtest)
 ---
 
-Playtest my most recent build [here!](/weekly_builds/Yarr!_AG_1252021.html)
+Playtest my most recent build [here!](/weekly_builds/Yarr!_AU_1282021.html)
 WIP (1252021)
 ---
