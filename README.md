@@ -9,10 +9,9 @@ Play the final completed build of yarr! [here!](final_build/Yarr!-FinalBuild.htm
 ---
 
 
-
-## Early beta content
-
+---
+ Early beta content
 Playtest my game [here!](playtest/playtest)
 find the last Development Build [here!](final_build/Yarr!-FinalBuild.html)
 WIP (1252021)
-
+---
