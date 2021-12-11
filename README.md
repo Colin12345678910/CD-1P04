@@ -2,6 +2,10 @@
 
 Welcome to my twine games website! Created for IASC-1P04 course at brock University
 
+# Play now!
+
+Play the final completed build of yarr! [here!]
+
 ---
 # Prototypes!
 
